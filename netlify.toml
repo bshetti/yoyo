@@ -3,5 +3,4 @@
   command = "hugo"
   
 [build.environment]
-  HUGO_VERSION = "0.60.1"
-  HUGO_THEME = "repo"
+  HUGO_VERSION = "0.68.1"
