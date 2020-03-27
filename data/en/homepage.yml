@@ -2,7 +2,7 @@
 banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
-  title : "Patriots suck <br/> & Design Agency"
+  title : "The team formerly known as CloudJourney team""
   content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
   button:
     enable : true
